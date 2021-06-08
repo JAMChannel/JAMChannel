@@ -16,7 +16,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyujiOdaJP&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,8 +26,8 @@
 <a href="https://github.com/RyujiOdaJP" target="_blank">
   <img src="https://grass-graph.moshimo.works/images/RyujiOdaJP.png?rotate=0">
 </a>
-<!--
-**JAMChannel/JAMChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- -->
+**JAMChannel/JAMChannel** is a ✨ _speci/repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
