@@ -9,24 +9,16 @@ Profile用です。
 ##基本情報
 ___
 
-❘key ❘❘ value❘
-❘‐‐‐❘❘‐‐‐❘
-❘１ ❘❘ ２ ❘
-❘４ ❘❘ ５ ❘
-
-
-
-
 | key         | Value                | Options       |
 | ------------------ | ------------------- | ----------------------- |
-| neme(名前)          | JAM_channel        | 　　　　　　　　　　　　　　　　　　　　　　　             |
-| nickname           | ツヨポン              | JAMさんでもOK 　　　　　　　　　　　　　　　　　　　　　　　　　|
-| Twitter            |@jamchannel3 　       |                          |
-| Instagram　　　　　　　　　　　　　　　　　　　　　| jam_channel0703    |                          |
-| 好きな言語         　　　　　| ruby              |                          |
-| 趣味          　　　　　　　　　　　　　| バスケ             | ミドルシュートが以上に得意      |
-| 特技   　　　　　　　　　　　　　　　　　　　　　　　　　　| live配信           | 17liveで活動中             |
-| 好きな言葉     　　　　　　　　　　　　| 生産性のある日々を   | マンガ：あひるの空参照            |
+| neme(名前)          |髙橋　剛      　　　　 | 　　　　　　　　　　　　　　  |
+| nickname           | ツヨポン              | JAMさんでもOK 　　　　　　|
+| Twitter            |@jam03364030   |                          　　　|
+| Instagram　　　　　　| jam_channel0703    | 　　　　　　　　　　　　　 |
+| 好きな言語         | ruby              |                          |
+| 趣味          　　　| バスケ             | ミドルシュートが以上に得意   ｜
+| 特技   　　　　　　| live配信           | 17liveで活動中             |
+| 好きな言葉     　　　| 生産性のある日々を   | マンガ：あひるの空参照       |
 
 
 
