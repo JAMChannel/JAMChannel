@@ -55,6 +55,7 @@ ___
 - Java: 1年
 - JavaScript 1年
 - jQuery 1年
+- vue.js 1年
 - HTML5 1年～3年
 - Sass 1年～3年
 - css 1年
@@ -83,8 +84,8 @@ ___
 
 
 # ポートフォリオ
-https://gracious-shockley-94f081.netlify.app/
-※現在Rils作成移行中。（7/15完成予定）
+
+※現在Rils作成移行中。（8/15完成予定）
 
 
 
