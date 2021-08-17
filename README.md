@@ -54,6 +54,7 @@ ___
 - Ruby ~2.6系(Ruby on Rails ５~6系): 3年
 - RSpec: ２年
 - Java: 1年
+- Python 1年
 - JavaScript 1年
 - jQuery ２年
 - vue.js 1年
