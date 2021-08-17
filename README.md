@@ -51,16 +51,16 @@ ___
 # スキルセット
 ___
 # プログラミング言語、ライブラリ、フレームワーク、フロントサイド、DB
-- Ruby ~2.6系(Ruby on Rails ~6系): 3年
-- RSpec: 1年
+- Ruby ~2.6系(Ruby on Rails ５~6系): 3年
+- RSpec: ２年
 - Java: 1年
 - JavaScript 1年
-- jQuery 1年
+- jQuery ２年
 - vue.js 1年
 - HTML5 1年～3年
 - Sass 1年～3年
-- css 1年
-- MySQL: ２年
+- css 1年～3年
+- MySQL: ３年
 
 # インフラストラクチャ(クラウド)
 ___
