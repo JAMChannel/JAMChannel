@@ -109,6 +109,6 @@ http://3.114.59.179/
   <img src="https://grass-graph.moshimo.works/images/RyujiOdaJP.png?rotate=0">
 </a>
 <!-- -->
-**JAMChannel/JAMChannel** is a ✨ _speci/repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
