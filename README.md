@@ -13,8 +13,8 @@ ___
 | ------------------ | ------------------- | ----------------------- |
 | neme(名前)          |tsuyoshi takahashi      　　　　 | 　　　　　　　　　　　　　　  |
 | nickname           | jam              |      　　　　　　|
-| Twitter            |@jam03364030   |                          　　　|
-| Instagram　　　　　　| jam_channel0703    | 　　　　　　　　　　　　　 |
+| Twitter            |   |                          　　　|
+| Instagram　　　　　　|     | 　　　　　　　　　　　　　 |
 | 好きな言語         | ruby              |                          |
 | 趣味          　　　| バスケ             | ミドルシュートが以上に得意   
 | 特技   　　　　　　| live配信           | 17liveで活動中             |
