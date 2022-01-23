@@ -17,10 +17,6 @@ ___
 
 | key         | Value                | Options       |
 | ------------------ | ------------------- | ----------------------- |
-| neme(名前)          |tsuyoshi takahashi      　　　　 | 　　　　　　　　　　　　　　  |
-| nickname           | jam              |      　　　　　　|
-| Twitter            |   |                          　　　|
-| Instagram　　　　　　|     | 　　　　　　　　　　　　　 |
 | 好きな言語         | ruby              |                          |
 | 趣味          　　　| バスケ             | ミドルシュートが以上に得意   
 | 特技   　　　　　　| live配信           | 17liveで活動中             |
@@ -65,6 +61,7 @@ ___
 - JavaScript 1年
 - jQuery ２年
 - vue.js 1年
+- React.js 1年
 - HTML5 1年～3年
 - Sass 1年～3年
 - css 1年～3年
@@ -89,7 +86,7 @@ ___
 ___
 
 - gitHubデスクトップ: 1年
-- シークエルプロ: 2年
+
 
 
 
