@@ -4,6 +4,12 @@
 転職に利用するために作成ました。
 Profile用です。
 
+# ポートフォリオ
+
+https://github.com/JAMChannel/mandarat-app  
+https://mandarat.com/
+basic認証: jam
+pw: 1049
 
 
 # 基本情報
