@@ -62,7 +62,7 @@ ___
 ## プログラミング言語、ライブラリ、フレームワーク、フロントサイド
 - Ruby 2.6系: 1~2年（実務1年）
 - Ruby on Rails: 1~2年(実務1年)
-- RSpec: 2年
+- RSpec: 1年
 - JavaScript 1年
 - jQuery 1年
 - vue.js 0.5年
@@ -73,7 +73,7 @@ ___
 
 ## BD
 ___
-- MySQL: ３年
+- MySQL: 1~2年
 
 
 
@@ -87,8 +87,7 @@ ___
 
 ## Webサーバー
 ___
-- nginx: 2年
-DB：MySQL / DynamoDB
+- nginx: 1~2年
 
 
 ## チーム開発ツール
