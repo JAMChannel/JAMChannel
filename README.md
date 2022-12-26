@@ -3,11 +3,6 @@
 
 Profile用です。
 
-# ポートフォリオ
-
-https://github.com/JAMChannel/mandarat-app  
-
-
 
 # 基本情報
 ___
