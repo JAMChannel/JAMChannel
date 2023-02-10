@@ -71,7 +71,7 @@ ___
 ## チーム開発ツール
 ___
 - Git(GitHub)
-- SequalPros
+- SequalPro
 - SourceTree
 - Slack
 - backlog
